@@ -1,0 +1,8 @@
+name = HumanitarianResponse Display Data
+description = Terms for the display properties taxonomy
+core = 7.x
+package = Humanitarianresponse data
+dependencies[] = humanitarianresponse_display
+dependencies[] = uuid
+features[features_api][] = api:1
+features[uuid_entities][] = display_properties
