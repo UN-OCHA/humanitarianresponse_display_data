@@ -2,6 +2,7 @@ name = HumanitarianResponse Display Data
 description = Terms for the display properties taxonomy
 core = 7.x
 package = Humanitarianresponse data
+php = 5.2.4
 dependencies[] = humanitarianresponse_display
 dependencies[] = uuid
 features[features_api][] = api:1
