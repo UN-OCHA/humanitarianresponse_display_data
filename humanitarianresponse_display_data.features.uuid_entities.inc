@@ -17,10 +17,27 @@ function humanitarianresponse_display_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Key',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Key',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'display-properties/key',
       'pathauto' => FALSE,
@@ -64,10 +81,27 @@ function humanitarianresponse_display_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Featured',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Featured',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'display-properties/featured',
       'pathauto' => FALSE,
