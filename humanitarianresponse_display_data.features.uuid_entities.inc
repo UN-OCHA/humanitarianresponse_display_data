@@ -36,6 +36,18 @@ function humanitarianresponse_display_data_uuid_default_entities() {
           'value' => 'Key',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Key',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Clé',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'display-properties/key',
@@ -97,6 +109,18 @@ function humanitarianresponse_display_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Featured',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Featured',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Mis en avant',
         ),
       ),
     ),
