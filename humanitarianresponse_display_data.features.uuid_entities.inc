@@ -27,7 +27,6 @@ function humanitarianresponse_display_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Key',
     'name_field' => array(
@@ -91,7 +90,6 @@ function humanitarianresponse_display_data_uuid_default_entities() {
       ),
     ),
     'format' => 'plain_text',
-    'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Featured',
     'name_field' => array(
