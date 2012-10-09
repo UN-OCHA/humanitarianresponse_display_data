@@ -48,6 +48,12 @@ function humanitarianresponse_display_data_uuid_default_entities() {
           'value' => 'Clé',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Clave',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'display-properties/key',
@@ -96,6 +102,12 @@ function humanitarianresponse_display_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'a87cf2af-fe60-0734-fddd-af561c9e8015',
@@ -138,6 +150,12 @@ function humanitarianresponse_display_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Mis en avant',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Destacado',
         ),
       ),
     ),
@@ -184,6 +202,12 @@ function humanitarianresponse_display_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
